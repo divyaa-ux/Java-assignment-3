@@ -29,23 +29,14 @@ Programs Included
 
 - Display elements of an array
 - Reverse an array
-- Sum of array elements
 - Count even and odd numbers
-- Left rotation
-- Count occurrences
-- Find second largest element
-- Remove duplicate elements
+
 
 2-D Array Programs
 
-- Sum of matrix elements
 - Matrix transpose
 - Matrix multiplication
-- Diagonal sum
 - Upper and lower triangular matrix
-- Boundary elements
-- Search an element in a matrix
-- Sparse matrix
 
 3-D Array Programs
 
